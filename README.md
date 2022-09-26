@@ -42,7 +42,7 @@
 위성 영상에서 항공기, 선박, 차량의 위치를 식별한다. 
 
 <ul style = "font-size:15px;">
-    <li style = "margin-bottom:20px;"><font color='#1E90FF'>항공기, 선박, 차량 각각 Object Detection</font></li>
+    <li style = "margin-bottom:20px;">항공기, 선박, 차량 각각 Object Detection/li>
     <li style = "margin-bottom:20px;">keyword:  <b>`Object Detection`</b></li>
 </ul>
 <br/>
