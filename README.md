@@ -1,6 +1,10 @@
 # Detection of Aircraft, Vehicles and Ships in Satellite imagery :: Team 잘할거SIA
+<br><br>
+<br><br>
 
 ## 📋 **프로젝트 소개**
+<br><br>
+<br><br>
 
 ### **프로젝트 주제**
 ---
@@ -10,6 +14,7 @@
 - 항공기, 선박, 차량 각각 Object Detection
 - keyword:  **`Object Detection`**
 <br><br>
+
 ### 데이터셋
 
 ---
@@ -24,6 +29,7 @@
 - GSD(Ground Sample Distance): 0.3m ~ 0.8m
 - Label: 객체의 Class, Polygon 등의 정보를 xml 확장자로 제공
 <br><br>
+
 ### **프로젝트 레벨 별 스텝**  (순서대로 진행)
 
 ---
@@ -38,7 +44,8 @@
     
 - **[LV3] Level2 결과 평가 & 성능 개선**
     - 난이도: ★★★★☆ (어려움)
-<br><br>        
+<br><br>
+
 ### **팀원 구성** 
 
 ---
