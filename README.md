@@ -97,7 +97,7 @@
 <div align="flex-start" style = "float: left;">
   <img src="./img/mmdet-logo.png" width="450"/>
 </div>
-  <div align="flex-end" style = "float: left;">
+  <div align="flex" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
     <b><font size="5">OpenMMLab website</font></b>
     <sup>
       <a href="https://openmmlab.com">
@@ -112,7 +112,7 @@
       </a>
     </sup>
 </div>
-<div align="flex-start" style = "float: left;">
+<div align="flex-end" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
     <img src = "./img/mmdet-logo.png" style = "width: 100%;">
 </div>
 
