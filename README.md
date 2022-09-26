@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    div {
+      color: white;
+      font-weight: bold;
+      font-size: 30px;
+      line-height: 50px;
+      height: 50px;
+      margin: 0 10px;
+      padding: 10px;
+    }
+    .d1 {
+      float: left;
+      background: red;
+    }
+    .d2 {
+      background: orange;
+    }
+  </style>
+</head>
+<body>
+  <div class="d1"> float: left; </div>
+  <div class="d2"> div </div>
+</body>
+</html>
+
 # Detection of Aircraft, Vehicles and Ships in Satellite imagery :: <br/>Team 잘할거SIA
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
