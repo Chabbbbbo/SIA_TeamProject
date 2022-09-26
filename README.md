@@ -78,7 +78,7 @@
 <br/>
 
 ## Open Library
-<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=Gitt&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white">
 
 <br/>
 <br/>
