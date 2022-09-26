@@ -94,6 +94,8 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
+<img src = "./img/mmrotate-logo.png" style = "width: 100%;">
+<img src = "./img/mmdet-logo.png" style = "width: 100%;">
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
 
