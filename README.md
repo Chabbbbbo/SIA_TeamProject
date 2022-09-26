@@ -79,4 +79,7 @@
 
 ## ⚒️Baseline Model
 ### oriented_rcnn
-<img src = "./img/oriented_rcnn.png" style = "width: 80%; margin-left:10%;">
+<img src = "./img/oriented_rcnn.png" style = "width: 100%;">
+<small style = "font-size:10px; color:gray;">[출처: https://github.com/open-mmlab/mmrotate/blob/main/configs/oriented_rcnn/README.md]</small>
+
+## 
