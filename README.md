@@ -44,8 +44,6 @@
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;"><span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량 각각 Object Detection</span></li>
     <li style = "margin-bottom:20px;">keyword:  <b>`Object Detection`</b></li>
-    <li style = "margin-bottom:20px;"></li>
-    <li style = "margin-bottom:20px;"></li>
 </ul>
 <br/>
 <br/>
