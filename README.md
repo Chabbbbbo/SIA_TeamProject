@@ -77,6 +77,7 @@
 <br/>
 <br/>
 ## Open Library
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=React&logoColor=white"/>
 <br/>
 <br/>
 
