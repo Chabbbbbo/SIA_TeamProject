@@ -88,13 +88,7 @@
 <br/>
 
 ## Open Library
-
-<br/>
-<br/>
-
-## ⚒️Baseline Model
-### Oriented_RCNN
-<div style = "width:100%;">
+<div style = "width:100%; float: left;">
     <div style = "width: 40%; margin-right:10%; float: left;">
       <img src="./img/mmdet-logo.png" width="450"/>
     </div>
@@ -102,6 +96,11 @@
         <img src = "./img/mmdet-logo.png" width="450"/>
     </div>
 </div>
+<br/>
+<br/>
+
+## ⚒️Baseline Model
+### Oriented_RCNN
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
 
