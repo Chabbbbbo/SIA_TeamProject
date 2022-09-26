@@ -94,10 +94,11 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
-<div align="center">
+<div align="normal">
   <img src="./img/mmdet-logo.png" width="450"/>
   <div>&nbsp;</div>
-  <div align="center">
+    
+  <div align="normal">
     <b><font size="5">OpenMMLab website</font></b>
     <sup>
       <a href="https://openmmlab.com">
@@ -112,6 +113,7 @@
       </a>
     </sup>
   </div>
+    
 <img src = "./img/mmdet-logo.png" style = "width: 100%;">
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
