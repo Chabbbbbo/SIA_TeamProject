@@ -96,8 +96,7 @@
 ### Oriented_RCNN
 <div align="flex-start" style = "float: left;">
   <img src="./img/mmdet-logo.png" width="450"/>
-  <div>&nbsp;</div>
-    
+</div>
   <div align="flex-end" style = "float: left;">
     <b><font size="5">OpenMMLab website</font></b>
     <sup>
@@ -112,9 +111,11 @@
         <i><font size="4">TRY IT OUT</font></i>
       </a>
     </sup>
-  </div>
-    
-<img src = "./img/mmdet-logo.png" style = "width: 100%;">
+</div>
+<div align="flex-start" style = "float: left;">
+    <img src = "./img/mmdet-logo.png" style = "width: 100%;">
+</div>
+
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
 
