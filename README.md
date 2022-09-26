@@ -94,11 +94,11 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
-<div align="normal">
+<div align="normal" style = "float: left;">
   <img src="./img/mmdet-logo.png" width="450"/>
   <div>&nbsp;</div>
     
-  <div align="normal">
+  <div align="normal" style = "float: left;">
     <b><font size="5">OpenMMLab website</font></b>
     <sup>
       <a href="https://openmmlab.com">
