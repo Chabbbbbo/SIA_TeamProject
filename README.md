@@ -41,7 +41,7 @@
 ### **프로젝트 주제**
 위성 영상에서 항공기, 선박, 차량의 위치를 식별한다. 
 
-- 항공기, 선박, 차량 각각 Object Detection
+- <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량 각각 Object Detection</span>
 - keyword:  **`Object Detection`**
 <br/>
 <br/>
