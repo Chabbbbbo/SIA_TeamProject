@@ -1,4 +1,4 @@
-# Detection of Aircraft, Vehicles and Ships in Satellite imagery :: Team 잘할거SIA
+# Detection of Aircraft, Vehicles and Ships in Satellite imagery :: <br/>Team 잘할거SIA
 <img src = "./img/sia_logo.jpg" style = "width: 100%;">
 <br><br>
 
