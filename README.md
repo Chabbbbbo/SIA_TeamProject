@@ -80,8 +80,10 @@
 ## ⚒️Baseline Model
 ### oriented_rcnn
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
-
+<br><br>
 
 ## EDA 과정
+<br><br>
 
-## 문제 해결 및 
+## 문제 해결 및 개선
+<br><br>
