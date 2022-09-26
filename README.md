@@ -79,4 +79,4 @@
 
 ## ⚒️Baseline Model
 ### oriented_rcnn
-<img src = "./img/oriented_rcnn.png" style = "width: 80%; margin:auto;">
+<img src = "./img/oriented_rcnn.png" style = "width: 80%; margin-left:10%;">
