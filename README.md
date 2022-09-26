@@ -80,6 +80,8 @@
 ## ⚒️Baseline Model
 ### oriented_rcnn
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
-<p style = "font-size:10px; color:gray !important;">[출처: 'https://github.com/open-mmlab/mmrotate/blob/main/configs/oriented_rcnn/README.md']</p>
 
-## 
+
+## EDA 과정
+
+## 문제 해결 및 
