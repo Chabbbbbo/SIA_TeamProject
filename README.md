@@ -46,10 +46,7 @@
 <br/>
 
 ### 데이터셋 (Fair1M-2.0)
----
-
-**Fair1M-2.0**
-
+<!-- **Fair1M-2.0** -->
 - 데이터셋 정보: [http://gaofenchallenge.com/benchmark](http://gaofenchallenge.com/benchmark)
 - 다운로드 링크: [https://drive.google.com/drive/folders/1lCZibAl3k9sI5d7ahRm_5GA3g7OCLXmY?usp=sharing](https://drive.google.com/drive/folders/1lCZibAl3k9sI5d7ahRm_5GA3g7OCLXmY?usp=sharing)
 - Gaofan에서 취득한 위성영상
