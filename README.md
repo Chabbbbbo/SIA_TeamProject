@@ -3,7 +3,6 @@
 
 ## 🌈 **팀원 소개**
 ---
-
 <table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
@@ -34,8 +33,8 @@
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">모델 결과 시각화 (QGIS 등), 모델 학습 및 분석</td>
     </tr>
 </table>
-
-
+<br/>
+<br/>
 
 ## 📋 **프로젝트 소개**
 
