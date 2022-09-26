@@ -90,10 +90,10 @@
 
 ## Open Library
 <div align="center">
-  <img src="./img/mmrotate_logo.png" width="450"/>
+  <img src="./img/mmdet_logo.jpg" width="450"/>
 </div>
 <div align="center">
-  <img src="./img/mmdet_logo.png" width="450"/>
+  <img src="./img/mmrotate_logo.jpg" width="450"/>
 </div>
 <br/>
 <br/>
