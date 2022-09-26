@@ -1,4 +1,5 @@
 # Detection of Aircraft, Vehicles and Ships in Satellite imagery :: Team 잘할거SIA
+<img src = "./img/logo_img.jpg" style = "width: 100%;">
 <br><br>
 
 ## 🌈 **팀 구성 및 역할**
