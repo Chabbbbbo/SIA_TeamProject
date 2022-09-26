@@ -94,14 +94,14 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
-<div align="flex-start" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
-  <img src="./img/mmdet-logo.png" width="450"/>
+<div align="center" style = "width:100%;">
+    <div align="flex-start" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
+      <img src="./img/mmdet-logo.png" width="450"/>
+    </div>
+    <div align="flex-end" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
+        <img src = "./img/mmdet-logo.png" width="450"/>
+    </div>
 </div>
-
-<div align="flex-end" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
-    <img src = "./img/mmdet-logo.png" width="450"/>
-</div>
-
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
 
