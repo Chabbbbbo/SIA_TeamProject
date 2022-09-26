@@ -1,7 +1,7 @@
 # Detection of Aircraft, Vehicles and Ships in Satellite imagery :: Team 잘할거SIA
 <br><br>
 
-## 🌈 **팀원 소개**
+## 🌈 **팀 구성 및 역할**
 <table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
