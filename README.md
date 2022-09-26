@@ -94,7 +94,24 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
-<img src = "./img/mmrotate-logo.png" style = "width: 100%;">
+<div align="center">
+  <img src="resources/mmrotate-logo.png" width="450"/>
+  <div>&nbsp;</div>
+  <div align="center">
+    <b><font size="5">OpenMMLab website</font></b>
+    <sup>
+      <a href="https://openmmlab.com">
+        <i><font size="4">HOT</font></i>
+      </a>
+    </sup>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <b><font size="5">OpenMMLab platform</font></b>
+    <sup>
+      <a href="https://platform.openmmlab.com">
+        <i><font size="4">TRY IT OUT</font></i>
+      </a>
+    </sup>
+  </div>
 <img src = "./img/mmdet-logo.png" style = "width: 100%;">
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
