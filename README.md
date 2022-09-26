@@ -78,7 +78,7 @@
 <br/>
 
 ## ⚒️Baseline Model
-### oriented_rcnn
+### Oriented_RCNN
 <img src = "./img/oriented_rcnn.png" style = "width: 100%;">
 <br><br>
 
