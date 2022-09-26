@@ -94,24 +94,10 @@
 
 ## ⚒️Baseline Model
 ### Oriented_RCNN
-<div align="flex-start" style = "float: left;">
+<div align="flex-start" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
   <img src="./img/mmdet-logo.png" width="450"/>
 </div>
-  <div align="flex" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
-    <b><font size="5">OpenMMLab website</font></b>
-    <sup>
-      <a href="https://openmmlab.com">
-        <i><font size="4">HOT</font></i>
-      </a>
-    </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenMMLab platform</font></b>
-    <sup>
-      <a href="https://platform.openmmlab.com">
-        <i><font size="4">TRY IT OUT</font></i>
-      </a>
-    </sup>
-</div>
+
 <div align="flex-end" style = "width: 40%; padding:10%; margin-right:10%; float: left;">
     <img src = "./img/mmdet-logo.png" style = "width: 100%;">
 </div>
