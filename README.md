@@ -1,7 +1,5 @@
 # Detection of Aircraft, Vehicles and Ships in Satellite imagery :: Team 잘할거SIA
 <br><br>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 
 ## 🌈 **팀 구성 및 역할**
 <table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
