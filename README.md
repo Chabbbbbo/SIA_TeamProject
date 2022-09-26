@@ -89,10 +89,12 @@
 <br/>
 
 ## Open Library
-
-![float-width](./img/mmdet-logo.png)
-![float-width](./img/mmdet-logo.png)
-
+<div align="center">
+  <img src="./img/mmrotate-logo.png" width="450"/>
+</div>
+<div align="center">
+  <img src="./img/mmdet-logo.png" width="450"/>
+</div>
 <br/>
 <br/>
 
