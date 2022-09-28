@@ -232,15 +232,15 @@ Anchor Generator 의 scale과 ratio 를 다양하게 변경하면서 모델 성�
 <img src = "./img/23.png" style = "width: 100%;">
 
 - **Size에 따른 Ship 지표 비교**
-<img src = "./img/23.png" style = "width: 100%;">
 <img src = "./img/24.png" style = "width: 100%;">
+<img src = "./img/25.png" style = "width: 100%;">
 
 - 기존 모델**과 튜닝한 모델 Evaluation 비교**
-<img src = "./img/25.png" style = "width: 100%;">
+<img src = "./img/26.png" style = "width: 100%;">
     
 
 - **Size에 따른 시각화**
-<img src = "./img/26.png" style = "width: 100%;">
+<img src = "./img/27.png" style = "width: 100%;">
     
 
 ## 7. 문제해결 과정 5차 : Class Imbalance 해결
@@ -249,7 +249,7 @@ Anchor Generator 의 scale과 ratio 를 다양하게 변경하면서 모델 성�
 EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하고자  더 보완하고자 샘플링을 진행하였습다. 
 
 - **`Scene 당 Object 분포가 제각각`** : Class 비율에 맞춰 데이터 샘플링을 진행하도록 하겠습니다
-<img src = "./img/27.png" style = "width: 100%;">
+<img src = "./img/28.png" style = "width: 100%;">
     
 
 ## 8. 프로젝트 회고
