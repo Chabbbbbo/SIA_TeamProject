@@ -258,7 +258,7 @@ EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하�
     <th style = "width:70%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">회고</th>
     <tr>        
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">anchor-based detector는 class의 종횡비의 분포가 다름에 따라 detection 정확도의 편차가 큰 편인 것으로 확인할 수 있었습니다. <br/>그러므로 3가지 class를 모두 탐지하는 모델을 만들기보다는 vehicle, airplane, ship을 각각 detection 하는 모델을 만들고 이를 앙상블 하는 기법을 적용하고 싶습니다.</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">anchor-based detector는 class의 종횡비의 분포가 다름에 따라 detection 정확도의 편차가<br/> 큰 편인 것으로 확인할 수 있었습니다. 그러므로 3가지 class를 모두 탐지하는 모델을 만들기보다는 vehicle, airplane, ship을 <br/>각각 detection 하는 모델을 만들고 이를 앙상블 하는 기법을 적용하고 싶습니다.</td>
     </tr>
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">채준병</td>
