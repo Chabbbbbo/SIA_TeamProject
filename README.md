@@ -12,40 +12,7 @@
 
 <img src = "./img/sia_logo.jpg" style = "width: 100%;">
 <br><br>
-
-## 🌈 **팀 구성 및 역할**
-<table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
-    <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
-    <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
-    <th style = "width:60%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">역할</th>
-    <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀장</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">프로젝트 진행 방향설정, Evaluation Matrix 개선, 모델 학습 및 분석</td>
-    </tr>
-    <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">채준병</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">Dataset EDA, 모델 학습 및 분석, large image 처리</td>
-    </tr>
-    <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">한연규</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">Dataset EDA, 모델 학습 및 분석</td>
-    </tr>
-    <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">임새란</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리 구현, 프로젝트 Base line 코드 취합, 모델 학습 및 분석</td>
-    </tr>
-    <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">윤혜연</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">모델 결과 시각화 (QGIS 등), 모델 학습 및 분석</td>
-    </tr>
-</table>
-<br/>
-<br/>
+# ✅ Detection of Aircraft, Vehicles and Ships in Satellite imagery
 
 ## **🌈 잘할거SIA팀 구성 및 역할**
 
@@ -57,27 +24,19 @@
 | 임새란 | 팀원 | 라이브러리 구현, 프로젝트 Base line 코드 취합, 모델 학습 및 분석 |
 | 윤혜연 | 팀원 | 모델 결과 시각화 (QGIS 등), 모델 학습 및 분석 |
 
-## 1. 프로젝트 주제 및 문제정의
 
+
+## **1. 프로젝트 주제 및 문제정의**
+### **1-1. 프로젝트 주제**
 ---
-
-### 1-1. 프로젝트 주제
-
----
-
-<aside>
-💡 위성 영상에서의 객체(항공기, 선박, 차량) 를 탐지하기 위한 알고리즘 개발
-
-</aside>
+> 위성 영상에서의 객체(항공기, 선박, 차량) 를 탐지하기 위한 알고리즘 개발
 
 위성영상에는 차량, 항공기, 선박 등 아주 다양한 객체가 포함되어 있습니다. 이러한 객체들을 사람의 눈으로 신속하고 정확하게 탐지하는 것은 매우 어려운 일입니다.  
 
 이에 본 프로젝트에서는 **딥러닝 비전 기술을 이용하여 위성 영상에서의 객체(항공기, 선박, 차량)를 탐지하기 위한 알고리즘을 개발**하고자 합니다. 
 
-### 1-2. 프로젝트 계획
-
+### **1-2. 프로젝트 계획**
 ---
-
 본 프로젝트에서 중요한 것은 **위성영상이 가진 특징을 고려한 객체탐지 알고리즘을 구축**하여야 한다는 것입니다. 
 
 일반적으로 위성영상은 일반 영상에 비해 회전된 객체가 많다는 특징이 있습니다. 따라서 다양한 각도를 고려한 객체 탐지를 하는 것이 중요합니다.
@@ -86,10 +45,10 @@
 
 따라서 본 프로젝트에서는 크게 **1) 다양한 각도에도 범용적으로 적용이 가능한 모델을 선정하는 작업**과  **2) 데이터셋 자체 특성에 맞게 모델을 튜닝 하는 작업** 두가지를 진행합니다. 
 
-## 2. EDA
-
+ 
+  
+## **2. EDA**
 ---
-
 데이터 특성을 고려한 모델을 구축하기 위해선 EDA 를 통해 데이터가 어떤 특성을 지니고 있는지 확인하는것이 중요합니다. EDA는 **이미지**(**Image**)와 **객체**(**Object**) 두가지 측면으로 나눠서 살펴보도록 하겠습니다. 
 
 ### 2-1. **Image**
@@ -313,7 +272,6 @@ Anchor Generator 의 scale과 ratio 를 다양하게 변경하면서 모델 성�
     
 
 ## 7. 문제해결 과정 5차 : Class Imbalance 해결
-
 ---
 
 EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하고자  더 보완하고자 샘플링을 진행하였습다. 
@@ -323,10 +281,7 @@ EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하�
     ![스크린샷 2022-09-28 오전 10.38.40.png](%E2%9C%85%20Detection%20of%20Aircraft,%20Vehicles%20and%20Ships%20in%20Sat%20719eefb5f561423a909342808f37bfc8/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-28_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_10.38.40.png)
     
 
----
-
 ## 8. 프로젝트 회고
-
 | 이름 | 소감 |
 | --- | --- |
 | 차보경 (팀장) | anchor-based detector는 class의 종횡비의 분포가 다름에 따라 detection 정확도의 편차가 큰 편인 것으로 확인할 수 있었습니다. 그러므로 3가지 class를 모두 탐지하는 모델을 만들기보다는 vehicle, airplane, ship을 각각 detection 하는 모델을 만들고 이를 앙상블 하는 기법을 적용하고 싶습니다. |
