@@ -256,7 +256,7 @@ EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하�
 <table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:30%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:70%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">회고</th>
-    <tr>
+    <tr>        
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">anchor-based detector는 class의 종횡비의 분포가 다름에 따라 detection 정확도의 편차가 큰 편인 것으로 확인할 수 있었습니다. 그러므로 3가지 class를 모두 탐지하는 모델을 만들기보다는 vehicle, airplane, ship을 각각 detection 하는 모델을 만들고 이를 앙상블 하는 기법을 적용하고 싶습니다.</td>
     </tr>
@@ -277,11 +277,3 @@ EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하�
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">mAP와 같은 수치상의 변화보다는 시각화를 통해 훈련한 모델이 객체의 size나 ratio에 따른 영향을 잘 캐치할 수 있는지 확인하는 과정이 매우 중요하다는 점을 느꼈습니다.</td>
     </tr>
 </table>
-
-| 이름 | 소감 |
-| --- | --- |
-| 차보경 (팀장) |  |
-| 채준병 (팀원) |  |
-| 한연규 (팀원) |  |
-| 임새란 (팀원) |   |
-| 윤혜연 (팀원) |  |
