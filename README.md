@@ -15,6 +15,37 @@
 # ✅ Detection of Aircraft, Vehicles and Ships in Satellite imagery
 
 ## **🌈 잘할거SIA팀 구성 및 역할**
+<table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
+    <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
+    <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
+    <th style = "width:60%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">역할</th>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀장</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">프로젝트 진행 방향설정, Evaluation Matrix 개선, 모델 학습 및 분석</td>
+    </tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">채준병</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">Dataset EDA, 모델 학습 및 분석, large image 처리</td>
+    </tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">한연규</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">Dataset EDA, 모델 학습 및 분석</td>
+    </tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">임새란</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리 구현, 프로젝트 Base line 코드 취합, 모델 학습 및 분석</td>
+    </tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">윤혜연</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">모델 결과 시각화 (QGIS 등), 모델 학습 및 분석</td>
+    </tr>
+</table>
+
 
 | 이름 | 구성 | 역할 |
 | --- | --- | --- |
