@@ -270,7 +270,7 @@ EDA에서 확인한 Class Imbalance 에도 잘 작동하는 모델을 구축하�
     </tr>
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">임새란</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리에서 제공하는 코드 외에 우리에게 필요한 코드를 추가하고 적용하는 경험을 할 수 있어 흥미로웠습니다.<br/> 프로젝트를 진행하며 팀원간 코드의 통일과 공유가 중요하다는 점을 느꼈습니다. 또한 시간이 너무 없어 더 많은 시도를 하지 못한점이 많이 아쉽습니다.</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리에서 제공하는 코드 외에 우리에게 필요한 코드를 추가하고 적용하는 경험을 할 수 있어 흥미로웠습니다.<br/> 프로젝트를 진행하며 팀원간 코드의 통일과 공유가 중요하다는 점을 느꼈습니다.<br/> 또한 시간이 너무 없어 더 많은 시도를 하지 못한점이 많이 아쉽습니다.</td>
     </tr>
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">윤혜연</td>
