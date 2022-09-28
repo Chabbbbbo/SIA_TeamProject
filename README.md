@@ -131,14 +131,10 @@
     EDA를 통해 도출해낸 문제점과 위성영상의 회전된 객체 탐지문제를 해결하기 위해 다음과 같은 세가지 전처리 과정을 데이터셋에 적용하였습니다. 
     
     - **`Resize`** : 이미지 사이즈가 크면 학습에 어려움이 있기때문에 EDA를 통해 확인한 이미지 사이즈와 종횡비 분포를 참고하여 이미지 사이즈를 1024*1024 로 조정하였습니다.
-    - `**Crop**`: 다양한 ****사이즈로의
-    - `**Flip**`: 다양한 각도에도 강건한 모델을 위해서 이미지를 랜덤하게 25%의 확률로 '수평', '수직', '대각선'  방향으로 회전을 적용하였습니다.
-    - backbone : ResNet50 (Pre trained)
-    - Neck : feature pyramid network (FPN)
-    - Head :  RPN head and RoI Head
-    - Epoch : 12 (1X)
+    - **`Crop`**: 다양한 ****사이즈로의
+    - **`Flip`**: 다양한 각도에도 강건한 모델을 위해서 이미지를 랜덤하게 25%의 확률로 '수평', '수직', '대각선'  방향으로 회전을 적용하였습니다.
     
-    ### 3-2. ****Baseline Model 선정: Oriented Rcnn****
+    ### 3-2. **Baseline Model 선정: Oriented Rcnn**
     <img src = "./img/10.png" style = "width: 100%;">    
     객체탐지 (Object Detection) 알고리즘은 Localization을 수행하기 위해 Feature Map을 기반으로 Object가 존재하는 위치에 Bounding Box를 그립니다. 일반적인 Bounding Box는 이미지와 수평적인 직사각형(Horizontal Bounding Box) 형태를 많이 사용하나, 객체가 많이 밀집되어 있는 경우에는 Bounding Box가 겹치는 문제가 생기기도 합니다. 
     
@@ -151,7 +147,7 @@
     
       
     
-    ### 3-2. 데이터 전처리 + ****Baseline Model 평가****
+    ### 3-2. 데이터 전처리 + **Baseline Model 평가**
 <img src = "./img/11.png" style = "width: 100%;">
     
     Class 별 평가지표(recall, AP, F1Scroe) 를 비교하니, EDA과정에서 우려했던 Vehicle의 Imbalance 영향은 없는 것으로 판단되었습니다.  좀 더 세밀한 모델 평가를 위해 
@@ -202,7 +198,7 @@
 **Oriented FCOS model**
 <img src = "./img/17.png" style = "width: 100%;">
 
-### 5-1.  ********Anchor Free 모델  ****평가****
+### 5-1.  **Anchor Free 모델 평가**
 <img src = "./img/18.png" style = "width: 100%;">
 <img src = "./img/19.png" style = "width: 100%;">
 
@@ -212,14 +208,14 @@
 
 
 
-### 6-1. ****Oriented Rcnn 모델 튜닝****
+### 6-1. **Oriented Rcnn 모델 튜닝**
 <img src = "./img/20.png" style = "width: 100%;">
 
 Anchor Generator 의 scale과 ratio 를 다양하게 변경하면서 모델 성능을 파악하였습니다. 
 
  ratio 를 선정하는 기준은 EDA에서 살펴봤던 Ship 클래스의 Object 종횡비 분포를 참고하여 [3,4,5] 로 선정을 하였습니다. 
 
-### 6-2. ****Oriented Rcnn 모델 튜닝 결과 해석****
+### 6-2. **Oriented Rcnn 모델 튜닝 결과 해석**
 
 
 
