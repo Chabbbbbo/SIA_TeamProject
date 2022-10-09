@@ -23,7 +23,7 @@
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀장</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">프로젝트 진행 방향설정, Evaluation Matrix 개선, 모델 학습 및 분석</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">프로젝트 진행 방향설정, Evaluation Metrix 개선, 모델 학습 및 분석</td>
     </tr>
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">채준병</td>
