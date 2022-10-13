@@ -38,7 +38,7 @@
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">임새란</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리 구현, 프로젝트 Base line 코드 취합, 모델 학습 및 분석</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">라이브러리 구현(데이터셋 커스터마이징 포함 베이스라인 코드작성), 모델 학습 및 분석, README 작성 </td>
     </tr>
     <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">윤혜연</td>
